@@ -8,7 +8,7 @@
 - Было измерено время обучения и инференса, а также собраны данные о точности на обучающей и тестовой выборках. 
 - Были визуализированы кривые обучения для каждой модели, чтобы оценить динамику потерь и точности.
 ## Полученные графики и результаты 
-![Image alt]([images/image-12.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-12.png))
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-12.png)
 ![Image alt]([images/image-13.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-13.png))
 ![Image alt]([images/image-14.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-14.png))
 
