@@ -6,10 +6,10 @@
 - Для реализации использовался класс **ConvKernelNet**, который определяет архитектуру сети с различными размерами ядер. 
 
 ## Полученные графики и результаты 
-![3x3](images/image.png)
-![5x5](images/image-1.png)
-![7x7](images/image-2.png)
-![1x1 + 3x3](images/image-3.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-1.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-2.png)
+![Image alt + 3x3](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-3.png)
 
 - Рецептивное поле модели3x3: 5
 - Рецептивное поле модели5x5: 7
@@ -44,14 +44,14 @@
 - Оценивалась эффективность остаточных связей в ResNet.
 
 ## Полученные графики и результаты 
-![alt text](images/image-4.png)
-![alt text](images/image-5.png)
-![alt text](images/image-6.png)
-![alt text](images/image-7.png)
-![alt text](images/image-8.png)
-![alt text](images/image-9.png)
-![alt text](images/image-10.png)
-![alt text](images/image-11.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-4.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-5.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-6.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-7.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-8.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-9.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-10.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-11.png)
 
 ### Итоги:
 ShallowCNN: точность обучения=0.7159, время обучения=104.48s, параметры=60362
