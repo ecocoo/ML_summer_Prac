@@ -8,9 +8,9 @@
 - Было измерено время обучения и инференса, а также собраны данные о точности на обучающей и тестовой выборках. 
 - Были визуализированы кривые обучения для каждой модели, чтобы оценить динамику потерь и точности.
 ## Полученные графики и результаты 
-![alt text]([images/image-12.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-12.png))
-![alt text]([images/image-13.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-13.png))
-![alt text]([images/image-14.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-14.png))
+![Image alt]([images/image-12.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-12.png))
+![Image alt]([images/image-13.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-13.png))
+![Image alt]([images/image-14.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-14.png))
 
 ### Сравнение моделей:
 
@@ -40,15 +40,15 @@ ResNetCNN       0.9930     0.9862     905.25          36.13           160906
 - Для каждой модели построены матрицы ошибок и исследованы средние значения градиентов по слоям.
 
 ## Полученные графики и результаты 
-![alt text]([images/image-15.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-15.png))
-![alt text]([images/image-16.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-16.png))
-![alt text]([images/image-17.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-17.png))
-![alt text]([images/image-18.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-18.png))
-![alt text]([images/image-19.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-19.png))
-![alt text]([images/image-20.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-20.png))
-![alt text]([images/image-21.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-21.png))
-![alt text]([images/image-22.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-22.png))
-![alt text]([images/image-23.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-23.png))
+![Image alt]([images/image-15.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-15.png))
+![Image alt]([images/image-16.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-16.png))
+![Image alt]([images/image-17.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-17.png))
+![Image alt]([images/image-18.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-18.png))
+![Image alt]([images/image-19.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-19.png))
+![Image alt]([images/image-20.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-20.png))
+![Image alt]([images/image-21.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-21.png))
+![Image alt]([images/image-22.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-22.png))
+![Image alt]([images/image-23.png](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-23.png))
 
 ### Сравнение моделей на CIFAR-10:
 Model           Train Acc  Test Acc   Overfit Gap  Train Time (s)  Infer Time (s)  Params    
