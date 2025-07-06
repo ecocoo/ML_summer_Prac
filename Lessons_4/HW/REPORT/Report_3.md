@@ -9,7 +9,7 @@
 
 - Были созданы две модели: базовая CNN с остаточными блоками (CNNWithResidual) и улучшенная модель (EnhancedResidualCNN) с кастомными слоями. Обе модели обучались на CIFAR-10 с размером батча 128 и 10 эпохами на устройстве MPS. 
 
-![alt text](images/image-24.png)
+![Image alt]((https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-24.png)
 
 ### Итоговые результаты:
 - Базовая модель - Лучшая точность на тесте: 0.8060
@@ -31,10 +31,10 @@
 - Wide Residual Block: Увеличенная ширина каналов с добавлением dropout (0.3) для регуляризации и предотвращения переобучени
 
 ## Полученные графики и результаты 
-![alt text](images/image-25.png)
-![alt text](images/image-26.png)
-![alt text](images/image-27.png)
-![alt text](images/image-28.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-25.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-26.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-27.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_4/HW/images/image-28.png)
 
 ### Сравнительные результаты
 Модель          Параметры    Время (с)  Train Acc  Test Acc   Train Loss Test Loss 
