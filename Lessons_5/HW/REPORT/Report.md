@@ -9,12 +9,12 @@
 - Было выбрано по одному изображению из 5 разных классов
 
 ## Визуализация результатов
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_5/HW/REPORT/images/image.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_5/HW/REPORT/images/image-1.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_5/HW/REPORT/images/image-2.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_5/HW/REPORT/images/image-3.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_5/HW/REPORT/images/image-4.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_5/HW/REPORT/images/image-5.png)
 
 
 #  Кастомные аугментации(Задание2)
@@ -30,7 +30,7 @@
 - AutoContrast: Автоматически корректирует контраст
 
 ## Визуализация результатов
-![alt text](image-6.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_5/HW/REPORT/images/image-6.png)
 
 
 #  Анализ датасета(Задание3)
@@ -51,8 +51,8 @@
 
 
 ## Визуализация результатов
-![alt text](image-7.png)
-![alt text](image-8.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_5/HW/REPORT/images/image-7.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_5/HW/REPORT/images/image-8.png)
 
 - Распределение по классам: Гистограмма показывает равномерное распределение количества изображений по шести классам, что подтверждает сбалансированность.
 - Распределение ширин: Гистограмма демонстрирует пики около среднего значения (560 пикселей), с разбросом 
@@ -107,7 +107,7 @@
 - - Использовано памяти: 16.47 МБ
 
 ## Визуализация результатов
-![alt text](image-9.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_5/HW/REPORT/images/image-9.png)
 
 - График времени: Кривая с точками показывает рост времени с увеличением размера. Увеличению подтверждает сложность обработки больших изображений.
 - График памяти: Кривая демонстрирует резкий спад , затем плавный рост. Если не учитывать резкий спад, то с увеличением размера увеличивается и потребление памяти
@@ -125,7 +125,7 @@
 - - Оптимизатор: Adam
 
 ## Визуализация результатов
-![alt text](image-10.png)
+![Image alt](https://github.com/ecocoo/ML_summer_Prac/blob/main/Lessons_5/HW/REPORT/images/image-10.png)
 
 - График Loss: Линии демонстрируют тенденцию к снижению, видно переобучение после 13 эпохи
 - График Accuracy: Линии показывают рост,с видимым переобучением после 13 эпохи
